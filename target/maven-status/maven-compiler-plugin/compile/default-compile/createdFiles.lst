@@ -1,0 +1,13 @@
+compiler\Compiler.class
+compiler\IntermediateCodeGenerator.class
+compiler\Token.class
+compiler\BinaryOpNode.class
+compiler\CodeGenerator.class
+compiler\SemanticAnalyzer.class
+compiler\TokenType.class
+compiler\LiteralNode.class
+compiler\Lexer.class
+compiler\Parser.class
+compiler\AssignmentNode.class
+compiler\IdentifierNode.class
+compiler\Node.class
